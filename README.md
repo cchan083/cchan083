@@ -8,4 +8,4 @@ Interested in Data Science and ML
 - NumPy
 
 ### Long term goals:
-- CNNs and RNNs
+- CNN
