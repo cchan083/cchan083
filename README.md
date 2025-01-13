@@ -7,5 +7,3 @@ Interested in Data Science and ML
 - Pandas
 - NumPy
 
-### Long term goals:
-- CNN
