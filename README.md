@@ -1,4 +1,4 @@
-High school student that likes to write python
+Sixth form student that likes to write python
 
 
 Interested in Data Science and ML
