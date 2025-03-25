@@ -4,15 +4,7 @@ Sixth form student that likes to write python
 Interested in Data Science and ML
 
 ### Learning:
-- Scikit-Learn
-- NumPy
+- Lot of maths
 
-### Libraries and Technologies
-- Python
-- SQL
-- Pandas
-- Matplotlib
-- tkinter
-- HTML & CSS
-  
+
   
